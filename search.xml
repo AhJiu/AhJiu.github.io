@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Heap</title>
+      <link href="/2022/10/24/Heap/"/>
+      <url>/2022/10/24/Heap/</url>
+      
+        <content type="html"><![CDATA[<p>今天来进行堆的学习：<br>1.什么是堆<br>在程序运行过程中，堆可以提供动态分配的内存，允许程序申请大小未知的内存。<br>堆其实就是程序虚拟地址空间的一块连续的线性区域，它由低地址向高地址方向增长。<br>我们一般称管理堆的那部分程序为堆管理器。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>_config.yml Explain</title>
       <link href="/2022/10/23/config-yml-Explain/"/>
       <url>/2022/10/23/config-yml-Explain/</url>
@@ -30,7 +43,7 @@
     
     
     <entry>
-      <title>categories</title>
+      <title>Categories</title>
       <link href="/2022/10/23/categories/"/>
       <url>/2022/10/23/categories/</url>
       
@@ -43,7 +56,7 @@
     
     
     <entry>
-      <title>My first page</title>
+      <title>My First Page</title>
       <link href="/2022/10/23/My-first-page/"/>
       <url>/2022/10/23/My-first-page/</url>
       
